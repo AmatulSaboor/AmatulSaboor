@@ -10,7 +10,7 @@ I have worked for 8 months as a Junior Software Developer at Sharptel Pvt. Ltd, 
 ## Projects
 
 ### 1: ShopEasy
-- **Description**:  An e-commerce website where customers can browse products, add them to their cart or wishlist, and complete a simple checkout process without payment.
+- **Description**:  An e-commerce website where customers can browse products, add them to their cart or wishlist, and complete a simple checkout process without payment.  
 There are two user roles: Admin and Customer. Admins have full control to add, edit, and view all products, while customers can only browse products and add them to their cart or wishlist. A search option is available to quickly find products. After checkout, customers receive an email with their bill details.
 - **Role**: Project Owner
 - **When**: August 2024
@@ -19,7 +19,9 @@ There are two user roles: Admin and Customer. Admins have full control to add, e
 - **Link**: [ShopEasy GIT Repo](https://github.com/AmatulSaboor/shopeasy)
 
 ### 2: FreeSpace
-- **Description**:  A final project to develop a website that connects frequent flyers with excess luggage space to people who want to send stuff 
+- **Description**:  A website that connects frequent flyers with excess luggage space to individuals who need to send items. Users can create posts by providing details like departure and arrival cities, dates, weight, price per kg, and volume.
+The platform features a search option with multiple filters such as weight, date, city, and country, helping users find the most relevant posts. Those looking to send items can browse the available posts, select the one that suits their needs, and contact the post owner.
+The post owner receives a notification and can mark the message as read to initiate private communication, making the process seamless and efficient.
 - **Role**: Project Baceknd Developer
 - **When**: Nov 2021
 - **Technologies**: MERN stack
