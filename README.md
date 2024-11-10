@@ -1,16 +1,17 @@
 # My Portfolio
 
-Welcome to my portfolio! I am Amatul Saboor, a MERN stack developer. Here you can find some of my projects, skills, and ways to connect with me.
+Welcome to my portfolio! I am Amatul Saboor, a MERN stack developer. Here are some of my projects, skills, and ways to connect with me.
 
 ## About Me
 
-I am a backend developer with a special interest in the MERN stack. I have done multiple courses/diplomas/boot camps to polish my skills.
+I am a backend developer with a special interest in the MERN stack. I have done multiple courses, diplomas, and boot camps to polish my skills.
 I have worked for 8 months as a Junior Software Developer at Sharptel Pvt. Ltd, Karachi, Pakistan
 
 ## Projects
 
 ### 1: ShopEasy
-- **Description**:  An e-commerce website for customers to do online shopping
+- **Description**:  An e-commerce website where customers can browse products, add them to their cart or wishlist, and complete a simple checkout process without payment.
+There are two user roles: Admin and Customer. Admins have full control to add, edit, and view all products, while customers can only browse products and add them to their cart or wishlist. A search option is available to quickly find products. After checkout, customers receive an email with their bill details.
 - **Role**: Project Owner
 - **When**: August 2024
 - **Technologies**: MERN stack
