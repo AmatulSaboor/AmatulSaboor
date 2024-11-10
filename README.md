@@ -19,8 +19,8 @@ There are two user roles: Admin and Customer. Admins have full control to add, e
 - **Link**: [ShopEasy GIT Repo](https://github.com/AmatulSaboor/shopeasy)
 
 ### 2: FreeSpace
-- **Description**:  A website that connects frequent flyers with excess luggage space to individuals who need to send items. Users can create posts by providing details like departure and arrival cities, dates, weight, price per kg, and volume.
-The platform features a search option with multiple filters such as weight, date, city, and country, helping users find the most relevant posts. Those looking to send items can browse the available posts, select the one that suits their needs, and contact the post owner.
+- **Description**:  A website that connects frequent flyers with excess luggage space to individuals who need to send items. Users can create posts by providing details like departure and arrival cities, dates, weight, price per kg, and volume. The platform features a search option with multiple filters such as weight, date, city, and country, helping users find the most relevant posts.  
+Those looking to send items can browse the available posts, select the one that suits their needs, and contact the post owner.
 The post owner receives a notification and can mark the message as read to initiate private communication, making the process seamless and efficient.
 - **Role**: Project Baceknd Developer
 - **When**: Nov 2021
@@ -47,14 +47,15 @@ The post owner receives a notification and can mark the message as read to initi
 - **Link**: [MemoryCardGame GIT Repo](https://github.com/AmatulSaboor/MemoryCardApp.git)
   
 ### 5: Intel Image Classification
-- **Description**:  A final project to develop an image classification software that predicts images of six scene categories with an accuracy of 92.3%
+- **Description**:  Developed an image classification software that predicts images across six scene categories—forest, sea, buildings, glaciers, mountains, and streets—with an accuracy of 92.3%. The model uses Convolutional Neural Networks (CNN) and is trained on a dataset of 25,000 natural scene images, each of size 150x150, sourced from Kaggle.  
+The dataset is divided into training (14k images), testing (3k images), and prediction (7k images) sets. The model is capable of classifying images based on these six categories.
 - **Role**: Project Owner
 - **When**: September 2020
 - **Technologies**: AI, Machine Learning, CNN
 - **Link**: [IntelImageClassification GIT Repo](https://github.com/AmatulSaboor/MSc_project)
   
 ### 6: RRS (Room Reservation System)
-- **Description**:  Built a basic desktop-based application that can be used in an institution to reserve a room without any conflicts. It also satisfies some business rules and restrictions.
+- **Description**:  Built a desktop application for institutions to reserve rooms while ensuring no conflicts. The system enforces several business rules, such as preventing room reservations on weekends, disallowing overlapping reservations, and limiting reservation duration to 30 minutes. This ensures smooth and efficient room management for the institution.
 - **Role**: Project Owner
 - **When**: April 2020
 - **Technologies**: Java, JavaFx, SQL
