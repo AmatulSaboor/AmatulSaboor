@@ -29,7 +29,8 @@ The post owner receives a notification and can mark the message as read to initi
 - **Link**: [FreeSpace GIT Repo](https://github.com/AmatulSaboor/FreeSpace-app)
   
 ### 3: HCMS (Health Care Management System)
-- **Description**:  Part of the team to develop a Healthcare Management System that allows patients to book appointments, and admin to manage doctors and other staff
+- **Description**: Part of the team that developed a Healthcare Management System to streamline the process of booking appointments and managing staff. The system allows admins to add doctors with specific domains, days, and timings via a dropdown menu. Patients can then book appointments with the selected doctor based on their availability.  
+When an appointment is booked or canceled by the admin, a confirmation popup appears, ensuring clarity for every action. Additionally, email notifications are automatically sent to the patient when an appointment is confirmed or canceled, keeping patients informed at all stages.
 - **Role**: Project Backend Developer
 - **When**: September 2023
 - **Technologies**: Laravel
@@ -38,7 +39,8 @@ The post owner receives a notification and can mark the message as read to initi
 - **Link**: [HCMS GIT Repo](https://github.com/AmatulSaboor/HealthCareManagementSystem.git)
   
 ### 4: Matching Card Game
-- **Description**:  It is a web-based 3-level game having features like a win-loss mechanism, pause/resume option, scoring, etc.
+- **Description**:  A fun and engaging web-based, 3-level memory card-matching game that tests players' memory and quick thinking. Players need to match pairs of cards, but with each level, the difficulty increases. Features include a win-loss mechanism, dynamic scoring, and a pause/resume option for added convenience.  
+As the game progresses, players face increasing challenges—more cards, negative markings for wrong matches, a limited number of clicks, and time constraints to make each level more thrilling. This game keeps players on their toes and offers a fun way to improve memory and decision-making skills.
 - **Role**: Project Backend Developer
 - **When**: July 2019
 - **Technologies**: HTML, CSS, JS, jQuery
@@ -58,7 +60,7 @@ The dataset is divided into training (14k images), testing (3k images), and pred
 - **Description**:  Built a desktop application for institutions to reserve rooms while ensuring no conflicts. The system enforces several business rules, such as preventing room reservations on weekends, disallowing overlapping reservations, and limiting reservation duration to 30 minutes. This ensures smooth and efficient room management for the institution.
 - **Role**: Project Owner
 - **When**: April 2020
-- **Technologies**: Java, JavaFx, SQL
+- **Technologies**: Java, JavaFX, SQL
 - **Link**: [RRS GIT Repo](https://github.com/AmatulSaboor/UoBD_RRS_Student.git)
   
 ## Skills
